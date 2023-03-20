@@ -1,6 +1,7 @@
 # A small app which shows linear layout of 3 buttons with on click text and toast message.
 -------
-## CONTACT- [SIBASISH PADHY](https://www.mixo.io/site/sibasish-padhy-9h1b9/index.html)
+## [SIBASISH PADHY](https://www.mixo.io/site/sibasish-padhy-9h1b9/index.html)
+CONTACT-
 
 - [E-MAIL](01sibasish@gmail.com)
 
